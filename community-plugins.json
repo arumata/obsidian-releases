@@ -36916,5 +36916,12 @@
     "author": "dmgx0",
     "description": "Show live stock, ETF, and crypto prices inline as you type a ticker. Do light math on quotes to track your own portfolio right in your notes. Fetches from Yahoo Finance and works on mobile. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dmgx0/obsidian-stonks"
+  },
+  {
+    "id": "ai-commit",
+    "name": "AI Commit",
+    "author": "arumata",
+    "description": "Generate meaningful commit messages via DeepSeek AI for Obsidian Git",
+    "repo": "arumata/obsidian-ai-commit"
   }
 ]
